@@ -1,0 +1,38 @@
+{
+  "name": "auctioneer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "author": "Matthew Budiman",
+  "license": "MIT",
+  "dependencies": {
+    "@firebase/auth": "^1.7.4",
+    "@paypal/checkout-server-sdk": "^1.0.3",
+    "bootstrap": "^5.0.0-beta2",
+    "chart.js": "^4.4.3",
+    "firebase": "^9.23.0",
+    "framer-motion": "^4.1.17",
+    "react": "^18.2.0",
+    "react-bootstrap": "^1.5.2",
+    "react-chartjs-2": "^5.2.0",
+    "react-countdown": "^2.3.5",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
